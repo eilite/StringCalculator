@@ -1,4 +1,4 @@
 # StringCalculator
 String calculator implemented in TDD during a code kata
 
-Link here : https://github.com/user/repo/blob/branch/other_file.md
+Link here : http://osherove.com/tdd-kata-1/
